@@ -17,9 +17,19 @@ The program monitors eye closure through a webcam and triggers an alarm if the d
 
 # System Requirements
 
-* Python **3.11 (recommended)**
-* Webcam
-* Windows / Mac / Linux
+- Python **3.11 (recommended)**
+- Webcam
+- Windows / Mac / Linux
+
+**Windows Users:** You must have **Visual Studio Build Tools** installed to compile `dlib`.
+
+Download here:  
+[https://visualstudio.microsoft.com/visual-cpp-build-tools/](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+
+During installation, select:
+
+- **Desktop development with C++**
+- Make sure **MSVC v143** or latest is checked
 
 ---
 
